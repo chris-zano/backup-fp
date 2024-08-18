@@ -1,0 +1,85 @@
+<mxfile host="Electron" modified="2024-08-18T18:43:31.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="xopGkd89RbiZIZRhqIqz" version="24.5.1" type="device">
+  <diagram name="Page-1" id="I_N__7R1qf-hX_2UYPis">
+    <mxGraphModel dx="1416" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rGHCAAevDPpmdZuWyswT-1" value="Lecturer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-3" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-4" value="RTC API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rGHCAAevDPpmdZuWyswT-1" target="rGHCAAevDPpmdZuWyswT-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="450" as="sourcePoint" />
+            <mxPoint x="500" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-6" value="Initiates RTC Session" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=20;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rGHCAAevDPpmdZuWyswT-3" target="rGHCAAevDPpmdZuWyswT-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-9" value="Join RTC Session" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="425" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-10" value="User Authentication" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rGHCAAevDPpmdZuWyswT-4" target="rGHCAAevDPpmdZuWyswT-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-12" value="authenticate user" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="385" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-13" value="lecturerId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=20;" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-14" value="studentId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="190" y="470" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-15" value="User information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="425" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-16" value="Signaling Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rGHCAAevDPpmdZuWyswT-10" target="rGHCAAevDPpmdZuWyswT-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-19" value="Setup Web RTC&amp;nbsp;&lt;div&gt;connection&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="425" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-20" value="" style="swimlane;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="950" y="355" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-24" value="Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="rGHCAAevDPpmdZuWyswT-20">
+          <mxGeometry x="15" y="20" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rGHCAAevDPpmdZuWyswT-16" target="rGHCAAevDPpmdZuWyswT-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGHCAAevDPpmdZuWyswT-23" value="attendance tracking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="910" y="470" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

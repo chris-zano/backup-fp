@@ -1,0 +1,5 @@
+    How do the functionalities mentioned in your study align with the core principles outlined by Kim, Lee & Yoon for the success of an e-learning platform?
+    Considering the challenges faced by GCTU, how do the proposed functionalities of the e-learning platform address these challenges?
+    How will the e-learning platform cater to the diverse learning needs of students, especially those residing far from campus or juggling work and studies?
+    Can you elaborate on how the platform will ensure flexibility and accessibility for all students regardless of their device and network connection?
+    How will the platform address external factors such as lack of reliable internet connectivity and electricity, which could impact its effectiveness?

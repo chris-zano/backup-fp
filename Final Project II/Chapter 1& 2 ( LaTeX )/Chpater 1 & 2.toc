@@ -1,0 +1,42 @@
+\babel@toc {british}{}\relax 
+\contentsline {section}{\numberline {1}INTRODUCTION}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Background of Study}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Problem Statement}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Limited Accommodation and Accessibility Challenges at GCTU}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}The High Cost of Existing Solutions}{3}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}The Limitations of Moodle}{3}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}The Need for a Custom, Cost-Effective E-Learning Platform}{3}{subsubsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.3}Research Aim and Objectives}{3}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Research Aim}{3}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Specific Objectives}{4}{subsubsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.4}Significance of study}{4}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Scope and Limitation}{4}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}The scope of this research}{4}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}The limitations of this research}{5}{subsubsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.6}Brief Methodology}{5}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1} Design Concept}{5}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}Software required}{6}{subsubsection.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.3}Frameworks and Libraries}{6}{subsubsection.1.6.3}%
+\contentsline {subsubsection}{\numberline {1.6.4}Hardware Requirements}{6}{subsubsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.7}Organization of Project}{7}{subsection.1.7}%
+\contentsline {section}{\numberline {2}LITERATURE REVIEW}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Overview}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Current Issues of Concern}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Definition of Related Areas}{8}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}WebRTC (Web Real Time Communication)}{8}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Web Sockets}{9}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Server Side Rendering}{9}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Success of e-learning platforms}{10}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}Scalable No-SQL Database Management Systems}{10}{subsubsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.6}Containerization with Docker }{11}{subsubsection.2.3.6}%
+\contentsline {subsubsection}{\numberline {2.3.7}System Architecture Design avoiding Single Point of Failure}{11}{subsubsection.2.3.7}%
+\contentsline {subsection}{\numberline {2.4}REVIEW OF RELATED AREAS}{12}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}1 Reviewed Work One}{12}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2} Reviewed work two}{13}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3} Reviewed Work 3}{14}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4} Reviewed Work 4}{16}{subsubsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.5}SUMMARY OF RELATED WORKS}{18}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}IDENTIFED GAPS FROM THE RELATED WORKS}{18}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}CURRENT SETUP OF E-LEARNING PLATFORMS}{20}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}PROPOSED DESIGN OF E-LEARNING PLATFORM}{21}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}CONCLUSION}{22}{subsection.2.9}%

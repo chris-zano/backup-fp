@@ -1,0 +1,35 @@
+\babel@toc {british}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Overview}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Historical Background}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Related Works}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Unified framework for resource scheduling}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}How LWKs for HPC differ from traditional Linux OS}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Advantages of multi-kernel OS for HPC}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Pros and Cons of Utilizing an Isolated LWK Executable}{6}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Advantages}{6}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Disadvantages}{6}{subsubsection.2.4.2}%
+\contentsline {section}{\numberline {3}Methodology}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Overview of the Barrelfish Architecture}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Methodology for Efficient Resource Allocation}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Mechanisms Involved in the optimization process}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Algorithm Sequence Diagram}{8}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Experimental Setup and Evaluation Metrics}{8}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Hardware Setup}{8}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Software Configuration}{8}{subsubsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.6}Experimental Design}{8}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Definition of Metrics for Evaluating the Efficiency of Resource Management}{9}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Mathematical Model}{9}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}Resource Allocation}{9}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2}Performance Metrics}{9}{subsubsection.3.8.2}%
+\contentsline {subsubsection}{\numberline {3.8.3}Mathematical Equations}{9}{subsubsection.3.8.3}%
+\contentsline {subsection}{\numberline {3.9}4.4.2 Parameters and Values}{10}{subsection.3.9}%
+\contentsline {section}{\numberline {4}Results and Analysis}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Definition of Metrics for Efficient Resource Management}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Presentation of Empirical Results}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Examining How Barrelfish Enhances System Efficiency}{11}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Implications and Future Work}{11}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Conclusion}{13}{section.5}%
+\contentsline {section}{Abbreviations}{16}{section*.5}%
+\contentsline {section}{Group Members}{16}{section*.5}%
+\contentsline {section}{References}{16}{section*.5}%

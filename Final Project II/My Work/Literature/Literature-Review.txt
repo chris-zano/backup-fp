@@ -1,0 +1,19 @@
+1. With the advent of e-learning technology, academics are facing the challenges of acquiring and implementing IT skills for the purposes of teaching.
+
+2. The internet is the perfect tool for learning, as it offers flexibility and expediency to learners at the same time offering endless opportunities for innovative teaching.
+
+3. There are some challenges faced by academics regarding the use and success of e-learning in an academic environment. Some of the major challenges include;
+	a. Learning Styles and Culture
+	b. Technology
+	c. Technical Training
+	d. Time Management
+4. a. Learning Styles and Culture 
+	Everyone has their own learning style along with cultural influences. To achieve the best learning outcome for students, it is desirable to have an understanding of student's learning styles. There are various teaching styles that accomodate various learning styles, but as no one learnng style is dorminantt among students, it is the responsiblity of the teacher to understand these various learning styles to accomodate students. When a student has a strong preference to a particular learning style it becomes impossible for them to learn if materials and resources are not delivered using that particular method.
+One popular way to identify the learning styles of students is the VARK questionnaire. This process identifies a learning style of a student and categorises it as Aural, Read/Write, Visual and kinaesthetic. Aural (A) refers to students who prefer to learn through receiving verbal instructions. Read/Write refers to the learning style of students who prefer reading instruction and writing notes as the best way to learn. Visual (V) are students who prefer the utilisation of visual objects as a way to learn such as graphs, charts and videos. Kinaesthetic (K) is when learners prefer to learn by a doing approach.
+
+   b. Technical challenge refers to development issues such as the bugs, the speed, the errors, functions and features not correctly working or do not work according to what academics require. In reviewing e-learning literature there are various criticisms of the quality of the e-learning systems currently being used. Issues have been raised that include: usability problems, bad performance, institutions being unable to customise according to their requirements and sometimes criticised for having a teacher centred system rather than learner centred system.
+
+   c. Training challenge refers to the training requirement that will enable academics to learn the e-learning features and functions correctly and to use them effectively. In reviewing e-learning literature, there are various criticisms of poor training provided by institutions to academics. 
+Issues have been raised that include not enough training, inadequate training, training styles in use that do not fit academics personal preferences, lack of hands on practice, and also how to create materials according the pedagogical requirement was missing from the training scenario.
+
+   d. Academics that use e-learning systems face difficulties in managing their time. According to Reeder (2004) some of the “cyber culture values” are characterised by speed, reach and quick response. However in recommendations set out by Burd and Buchman (2004), the prerequisite needed to be an effective online instructor is that academics must visit the discussion page at least once a day to see if there is a posting by students. A viable question is that visiting the discussion board once a day may not be seen as adequate according to cyber culture values. Some researchers have stated that academics should always maintain a vigorous presence on online discussion boards so they control discussion, provide answers and feedback so students do not disengage from the course
