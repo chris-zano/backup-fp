@@ -40,3 +40,9 @@
 \contentsline {subsection}{\numberline {2.7}CURRENT SETUP OF E-LEARNING PLATFORMS}{20}{subsection.2.7}%
 \contentsline {subsection}{\numberline {2.8}PROPOSED DESIGN OF E-LEARNING PLATFORM}{21}{subsection.2.8}%
 \contentsline {subsection}{\numberline {2.9}CONCLUSION}{22}{subsection.2.9}%
+\contentsline {section}{\numberline {3}METHODOLOGY}{23}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Overview}{23}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Product Backlog Creation}{23}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Sprint Planning}{25}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Sprint Exxecution}{27}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Requirements}{27}{subsubsection.3.4.1}%
