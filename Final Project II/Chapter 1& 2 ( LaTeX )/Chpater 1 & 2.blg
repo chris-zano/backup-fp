@@ -1,5 +1,72 @@
-[0] Config.pm:308> INFO - This is Biber 2.20
-[0] Config.pm:311> INFO - Logfile is 'Chpater 1 & 2.blg'
-[86] biber-MSWIN64:340> INFO - === 
-[365] Utils.pm:410> ERROR - Cannot find 'Chpater 1 & 2.bcf'!
-[365] Biber.pm:136> INFO - ERRORS: 1
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Chpater 1 & 2.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: references.bib
+Repeated entry---line 325 of file references.bib
+ : @misc{geeksforgeeks2024
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 357 of file references.bib
+ : @misc{geeksforgeeks2024
+ :                        ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty author in moodle2024review
+Warning--empty journal in moodle2024review
+Warning--empty journal in emmanuel2022design
+Warning--empty journal in oliwa2021process
+Warning--empty journal in appiahene2017design
+
+Done.
+You've used 21 entries,
+            4087 wiz_defined-function locations,
+            921 strings with 10197 characters,
+and the built_in function-call counts, 11092 in all, are:
+= -- 858
+> -- 298
+< -- 27
++ -- 150
+- -- 67
+* -- 514
+:= -- 1881
+add.period$ -- 43
+call.type$ -- 21
+change.case$ -- 32
+chr.to.int$ -- 57
+cite$ -- 26
+duplicate$ -- 851
+empty$ -- 938
+format.name$ -- 77
+if$ -- 2476
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 194
+newline$ -- 110
+num.names$ -- 22
+pop$ -- 527
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 833
+stack$ -- 0
+substring$ -- 173
+swap$ -- 570
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 21
+warning$ -- 5
+while$ -- 30
+width$ -- 23
+write$ -- 231
+(There were 2 error messages)
