@@ -1,4 +1,8 @@
 \babel@toc {british}{}\relax 
+\contentsline {section}{Declaration}{i}{section*.4}%
+\contentsline {section}{Dedication}{ii}{section*.5}%
+\contentsline {section}{Acknowledgement}{iii}{section*.6}%
+\contentsline {section}{Abstract}{v}{section*.8}%
 \contentsline {section}{\numberline {1}INTRODUCTION}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Background of Study}{1}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Problem Statement}{2}{subsection.1.2}%
@@ -43,29 +47,34 @@
 \contentsline {section}{\numberline {3}METHODOLOGY}{23}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Overview}{23}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Product Backlog Creation}{23}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Sprint Planning}{25}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}Sprint Planning}{26}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Sprint Exxecution}{27}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Requirements}{27}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.2}Design and Implementation}{31}{subsubsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.3}User Registration and Login}{32}{subsubsection.3.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.4}Video Conferencing Flow Chart}{34}{subsubsection.3.4.4}%
-\contentsline {subsubsection}{\numberline {3.4.5}Level 0 Data Flow Diagram (DFD) for Video Conferencing Feature}{36}{subsubsection.3.4.5}%
-\contentsline {subsubsection}{\numberline {3.4.6}Level 1 Data Flow Diagram (DFD) for Video Conferencing Feature}{38}{subsubsection.3.4.6}%
-\contentsline {subsubsection}{\numberline {3.4.7}Entity Relationship Overview for the Video Conferencing feature}{40}{subsubsection.3.4.7}%
-\contentsline {subsubsection}{\numberline {3.4.8}Course Management and Submission Management}{41}{subsubsection.3.4.8}%
-\contentsline {subsubsection}{\numberline {3.4.9}Session Traversal Utilities for NAT (STUN)}{42}{subsubsection.3.4.9}%
-\contentsline {subsection}{\numberline {3.5}Sprint Review and Retrospective}{42}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Summary of Chapter}{43}{subsection.3.6}%
-\contentsline {section}{\numberline {4}ANALYSIS AND RESULTS}{44}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Overview}{44}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}User Interface}{44}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Login Page}{44}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Students Courses Page}{45}{subsubsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.3}Lecturers Courses Page}{46}{subsubsection.4.2.3}%
-\contentsline {subsubsection}{\numberline {4.2.4}Course View Page (for Both Students and Lecturers)}{47}{subsubsection.4.2.4}%
-\contentsline {subsubsection}{\numberline {4.2.5}Waiting Room (for Both Students and Lecturers)}{49}{subsubsection.4.2.5}%
-\contentsline {subsubsection}{\numberline {4.2.6}Meeting Room}{51}{subsubsection.4.2.6}%
-\contentsline {subsection}{\numberline {4.3}Evaluating and Testing}{55}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Results}{56}{subsection.4.4}%
-\contentsline {subsubsection}{\numberline {4.4.1}The Benefits of the E-Learning Platform}{56}{subsubsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.5}Chapter Summary}{57}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {3.4.1}Requirements}{28}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Design and Implementation}{32}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}User Registration and Login}{33}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Video Conferencing Flow Chart}{35}{subsubsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.5}Level 0 Data Flow Diagram (DFD) for Video Conferencing Feature}{37}{subsubsection.3.4.5}%
+\contentsline {subsubsection}{\numberline {3.4.6}Level 1 Data Flow Diagram (DFD) for Video Conferencing Feature}{39}{subsubsection.3.4.6}%
+\contentsline {subsubsection}{\numberline {3.4.7}Entity Relationship Overview for the Video Conferencing feature}{41}{subsubsection.3.4.7}%
+\contentsline {subsubsection}{\numberline {3.4.8}Course Management and Submission Management}{42}{subsubsection.3.4.8}%
+\contentsline {subsubsection}{\numberline {3.4.9}Session Traversal Utilities for NAT (STUN)}{43}{subsubsection.3.4.9}%
+\contentsline {subsection}{\numberline {3.5}Sprint Review and Retrospective}{43}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Summary of Chapter}{44}{subsection.3.6}%
+\contentsline {section}{\numberline {4}ANALYSIS AND RESULTS}{45}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Overview}{45}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}User Interface}{45}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Login Page}{45}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Students Courses Page}{46}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Lecturers Courses Page}{47}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Course View Page (for Both Students and Lecturers)}{48}{subsubsection.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.5}Waiting Room (for Both Students and Lecturers)}{50}{subsubsection.4.2.5}%
+\contentsline {subsubsection}{\numberline {4.2.6}Meeting Room}{52}{subsubsection.4.2.6}%
+\contentsline {subsection}{\numberline {4.3}Evaluating and Testing}{56}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Results}{57}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}The Benefits of the E-Learning Platform}{57}{subsubsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.5}Chapter Summary}{58}{subsection.4.5}%
+\contentsline {section}{\numberline {5}CONCLUSION, LIMITATION AND RECOMMENDATION}{59}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Overview}{59}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Conclusion}{59}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Limitations}{59}{subsection.5.3}%
+\contentsline {section}{References}{62}{section*.16}%

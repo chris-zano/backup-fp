@@ -21,6 +21,11 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{appiahene2017design}
+P.~Appiahene and C.~Ninfaakang, ``Design and implementation of online-learning
+  platform with a large class size: Case study at university of energy and
+  natural resources-ghana,'' 2017.
+
 \bibitem{gyamfi2020stakeholders}
 E.~A. Gyamfi, P.~K. Addo, and A.~Adjapong, ``Stakeholders’ perception of
   quality in distance education and its implications for educational
@@ -54,11 +59,6 @@ N.~Islam, M.~Beer, and F.~Slack, ``E-learning challenges faced by academics in
 \bibitem{oliwa2021process}
 R.~Oliwa, ``The process of designing the functionalities of an online learning
   platform: A case study,'' 2021.
-
-\bibitem{appiahene2017design}
-P.~Appiahene and C.~Ninfaakang, ``Design and implementation of online-learning
-  platform with a large class size: Case study at university of energy and
-  natural resources-ghana,'' 2017.
 
 \bibitem{schwaber2020scrum}
 \BIBentryALTinterwordspacing
